@@ -1,0 +1,11 @@
+C:\Users\Student\Desktop\C# Drills_Warmup\Drills_cs\Drills_cs\bin\Debug\Drills_cs.exe.config
+C:\Users\Student\Desktop\C# Drills_Warmup\Drills_cs\Drills_cs\bin\Debug\Drills_cs.exe
+C:\Users\Student\Desktop\C# Drills_Warmup\Drills_cs\Drills_cs\bin\Debug\Drills_cs.pdb
+C:\Users\Student\Desktop\C# Drills_Warmup\Drills_cs\Drills_cs\obj\Debug\Drills_cs.exe
+C:\Users\Student\Desktop\C# Drills_Warmup\Drills_cs\Drills_cs\obj\Debug\Drills_cs.pdb
+C:\Users\Student\Desktop\C# Drills_Warmup\Drill_01_cs\Drills_cs\bin\Debug\Drills_cs.exe.config
+C:\Users\Student\Desktop\C# Drills_Warmup\Drill_01_cs\Drills_cs\obj\Debug\Drills_cs.exe
+C:\Users\Student\Desktop\C# Drills_Warmup\Drill_01_cs\Drills_cs\obj\Debug\Drills_cs.pdb
+C:\Users\Student\Desktop\C# Drills_Warmup\Drill_01_cs\Drills_cs\bin\Debug\Drills_cs.exe
+C:\Users\Student\Desktop\C# Drills_Warmup\Drill_01_cs\Drills_cs\bin\Debug\Drills_cs.pdb
+C:\Users\Student\Desktop\C# Drills_Warmup\Drill_01_cs\Drills_cs\obj\Debug\Drills_cs.csprojResolveAssemblyReference.cache
